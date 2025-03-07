@@ -60,6 +60,8 @@ const result = passwordStrength("Example123!", customOptions, "!@#$%");
 console.log(result);
 ```
 
+## Credit
+This project is based on the initial JavaScript code from [Deanil Vincent](https://github.com/deanilvincent/check-password-strength).
+
 ## License
 MIT
-
