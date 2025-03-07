@@ -1,0 +1,27 @@
+{
+  "name": "password-strength-checker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmuchyri/password-strength-checker.git"
+  },
+  "keywords": [
+    "password",
+    "strength",
+    "check"
+  ],
+  "author": "ianmuchyri",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ianmuchyri/password-strength-checker/issues"
+  },
+  "homepage": "https://github.com/ianmuchyri/password-strength-checker#readme",
+  "description": "",
+  "dependencies": {
+    "escape-string-regexp": "^5.0.0"
+  }
+}
